@@ -3,59 +3,73 @@
     "subdir": "win-64"
   },
   "packages": {
-    "opusfc-1.2.1-py36h8c2d366_0.tar.bz2": {
-      "build": "py36h8c2d366_0",
+    "opusfc-1.2.4-py36h0568ab8_0.tar.bz2": {
+      "build": "py36h0568ab8_0",
       "build_number": 0,
       "depends": [
         "numpy",
         "python >=3.6,<3.7.0a0",
-        "python_abi 3.6.* *_cp36m",
         "vc >=14.1,<15.0a0",
-        "vs2015_runtime >=14.16.27012"
+        "vs2015_runtime >=14.16.27012,<15.0a0"
       ],
-      "md5": "cdf25970017ca7b23fc1bf9747f4f097",
+      "md5": "0245df03ef7f1fcaeabcb4cdafa61ea3",
       "name": "opusfc",
-      "sha256": "a8d14b1cf22daac395a4c48fe5fc08e5ae5403dac77189c4ba07c326dd95c585",
-      "size": 131386,
+      "sha256": "a0e8064f282d1f744194c0d3198ebded25abc72539a27de2bf199413a38402f9",
+      "size": 115321,
       "subdir": "win-64",
-      "timestamp": 1601331763614,
-      "version": "1.2.1"
+      "timestamp": 1627054470114,
+      "version": "1.2.4"
     },
-    "opusfc-1.2.1-py37h8c2d366_0.tar.bz2": {
-      "build": "py37h8c2d366_0",
+    "opusfc-1.2.4-py37h0568ab8_0.tar.bz2": {
+      "build": "py37h0568ab8_0",
       "build_number": 0,
       "depends": [
         "numpy",
         "python >=3.7,<3.8.0a0",
-        "python_abi 3.7.* *_cp37m",
         "vc >=14.1,<15.0a0",
-        "vs2015_runtime >=14.16.27012"
+        "vs2015_runtime >=14.16.27012,<15.0a0"
       ],
-      "md5": "c3ba21a67e8184d75198dc27d2b5e9e4",
+      "md5": "37adb880d6ac056c4f7c3acb9b462f0a",
       "name": "opusfc",
-      "sha256": "6966da71dcbf93cd6247f376b2c061643f14143b6dc9cde1b634bd1fb675a14d",
-      "size": 131474,
+      "sha256": "21d8cc992683374ca18bc8ceef55d99ee48323d1f01017d10916c3e600bf0211",
+      "size": 115498,
       "subdir": "win-64",
-      "timestamp": 1601331549364,
-      "version": "1.2.1"
+      "timestamp": 1627054665880,
+      "version": "1.2.4"
     },
-    "opusfc-1.2.1-py38h2a96729_0.tar.bz2": {
-      "build": "py38h2a96729_0",
+    "opusfc-1.2.4-py38h7235e96_0.tar.bz2": {
+      "build": "py38h7235e96_0",
       "build_number": 0,
       "depends": [
         "numpy",
         "python >=3.8,<3.9.0a0",
-        "python_abi 3.8.* *_cp38",
         "vc >=14.1,<15.0a0",
-        "vs2015_runtime >=14.16.27012"
+        "vs2015_runtime >=14.16.27012,<15.0a0"
       ],
-      "md5": "945d2be319747b9d4d1bdbc0808c7ed2",
+      "md5": "aa6f351d017adc9e3b564c258465a296",
       "name": "opusfc",
-      "sha256": "a280939e6b44cb9a86e09c742908b189486affcaddd1a1daca6652a6a7c93048",
-      "size": 142182,
+      "sha256": "6af3ae54b4e098cffb7c39da8c69c03f9f7d90b568b1c75a6903829ff1e19367",
+      "size": 125992,
       "subdir": "win-64",
-      "timestamp": 1601331313505,
-      "version": "1.2.1"
+      "timestamp": 1627054340022,
+      "version": "1.2.4"
+    },
+    "opusfc-1.2.4-py39h5db56cb_0.tar.bz2": {
+      "build": "py39h5db56cb_0",
+      "build_number": 0,
+      "depends": [
+        "numpy",
+        "python >=3.9,<3.10.0a0",
+        "vc >=14.1,<15.0a0",
+        "vs2015_runtime >=14.16.27012,<15.0a0"
+      ],
+      "md5": "0a649a1d584d6bdf80de658cf6511c39",
+      "name": "opusfc",
+      "sha256": "5b38ab156982ad8ea6260cc778e17a2c6bada06416817d41d4a30711bdd7af95",
+      "size": 122314,
+      "subdir": "win-64",
+      "timestamp": 1627054548515,
+      "version": "1.2.4"
     }
   },
   "packages.conda": {},
