@@ -181,6 +181,70 @@
       "subdir": "linux-64",
       "timestamp": 1627053081044,
       "version": "1.2.4"
+    },
+    "opusfc-1.2.5-py36h1515d6f_0.tar.bz2": {
+      "build": "py36h1515d6f_0",
+      "build_number": 0,
+      "depends": [
+        "libgcc-ng >=9.3.0",
+        "numpy",
+        "python >=3.6,<3.7.0a0"
+      ],
+      "md5": "91165e1f42110240be783343a1572276",
+      "name": "opusfc",
+      "sha256": "a853b94df3aa5499d7013bdc93784e4ca5c9c6efe6b604cce41cc272b2166e9a",
+      "size": 176218,
+      "subdir": "linux-64",
+      "timestamp": 1636130394820,
+      "version": "1.2.5"
+    },
+    "opusfc-1.2.5-py37h1515d6f_0.tar.bz2": {
+      "build": "py37h1515d6f_0",
+      "build_number": 0,
+      "depends": [
+        "libgcc-ng >=9.3.0",
+        "numpy",
+        "python >=3.7,<3.8.0a0"
+      ],
+      "md5": "ce816edd8ecb9983128b21d78c18fd66",
+      "name": "opusfc",
+      "sha256": "8f0be9d63b9e3f55d657b91e5cacf81d130cbe6ea8e6993325520fef34d9c7bd",
+      "size": 176202,
+      "subdir": "linux-64",
+      "timestamp": 1636130322560,
+      "version": "1.2.5"
+    },
+    "opusfc-1.2.5-py38h353cf5f_0.tar.bz2": {
+      "build": "py38h353cf5f_0",
+      "build_number": 0,
+      "depends": [
+        "libgcc-ng >=9.3.0",
+        "numpy",
+        "python >=3.8,<3.9.0a0"
+      ],
+      "md5": "71e8a0e64e0b7de8552763a3f5433269",
+      "name": "opusfc",
+      "sha256": "94d75029a8d7d2494f0a748db87caf0948fbf94bd80f2fe7305156f344b6c60a",
+      "size": 188018,
+      "subdir": "linux-64",
+      "timestamp": 1636130447304,
+      "version": "1.2.5"
+    },
+    "opusfc-1.2.5-py39h8986c40_0.tar.bz2": {
+      "build": "py39h8986c40_0",
+      "build_number": 0,
+      "depends": [
+        "libgcc-ng >=9.3.0",
+        "numpy",
+        "python >=3.9,<3.10.0a0"
+      ],
+      "md5": "65a39720c06f841b0c034a451f19bebf",
+      "name": "opusfc",
+      "sha256": "5cd1abfb19dd0df6b716134bf579abb6570e64a38cac855e5e9a7984869a5ac7",
+      "size": 186342,
+      "subdir": "linux-64",
+      "timestamp": 1636130261098,
+      "version": "1.2.5"
     }
   },
   "packages.conda": {},

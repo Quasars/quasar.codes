@@ -59,8 +59,8 @@
       "summary": null,
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1627054665,
-      "version": "1.2.4"
+      "timestamp": 1636131104,
+      "version": "1.2.5"
     },
     "orange-spectroscopy": {
       "activate.d": false,
@@ -89,7 +89,7 @@
       "summary": "Orange-Spectroscopy",
       "tags": null,
       "text_prefix": false,
-      "timestamp": 1567687954,
+      "timestamp": 1589466661,
       "version": "0.6.1"
     },
     "quasar": {
@@ -119,7 +119,7 @@
       "summary": "Quasar",
       "tags": null,
       "text_prefix": true,
-      "timestamp": 1577104205,
+      "timestamp": 1556803804,
       "version": "1.3.0"
     },
     "renishawwire": {
