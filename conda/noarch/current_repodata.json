@@ -21,7 +21,7 @@
       "timestamp": 1556805431401,
       "version": "0.0.3"
     },
-    "orange-spectroscopy-0.6.4-py_0.tar.bz2": {
+    "orange-spectroscopy-0.6.5-py_0.tar.bz2": {
       "build": "py_0",
       "build_number": 0,
       "depends": [
@@ -36,7 +36,7 @@
         "orange3 >=3.28",
         "pebble",
         "pillow",
-        "pyqtgraph >=0.10.0",
+        "pyqtgraph >=0.11.1,!=0.12.4",
         "python",
         "renishawwire >=0.1.8",
         "scipy >=0.14.0",
@@ -45,14 +45,14 @@
       ],
       "license": "GPL-3",
       "license_family": "GPL",
-      "md5": "7e6eca3c1e7a852d71afe305df1b3097",
+      "md5": "c35bc3439e018862467d6e633e2defd0",
       "name": "orange-spectroscopy",
       "noarch": "python",
-      "sha256": "1f22e53c819479964a133f3d3983bbc6d3a1506937df708388e43527e51d9aa8",
-      "size": 3315435,
+      "sha256": "ed1cbe89ff26aaf864a746674447f8da9075387e86d8ae5a7ac28a3e6ea9ea94",
+      "size": 3306621,
       "subdir": "noarch",
-      "timestamp": 1644526611980,
-      "version": "0.6.4"
+      "timestamp": 1651144627347,
+      "version": "0.6.5"
     },
     "quasar-1.4.0-py_0.tar.bz2": {
       "build": "py_0",
