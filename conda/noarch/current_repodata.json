@@ -21,7 +21,7 @@
       "timestamp": 1556805431401,
       "version": "0.0.3"
     },
-    "orange-spectroscopy-0.6.5-py_0.tar.bz2": {
+    "orange-spectroscopy-0.6.6-py_0.tar.bz2": {
       "build": "py_0",
       "build_number": 0,
       "depends": [
@@ -31,28 +31,30 @@
         "extranormal3 >=0.0.3",
         "h5py",
         "lmfit >=1.0.2",
-        "orange-canvas-core >=0.1.20",
-        "orange-widget-base >=4.14.1",
-        "orange3 >=3.28",
+        "numpy >=1.18.0",
+        "orange-canvas-core >=0.1.24",
+        "orange-widget-base >=4.16.1",
+        "orange3 >=3.31.0",
         "pebble",
         "pillow",
         "pyqtgraph >=0.11.1,!=0.12.4",
-        "python",
+        "python >=3.8",
         "renishawwire >=0.1.8",
-        "scipy >=0.14.0",
+        "scikit-learn >0.23.0",
+        "scipy >=1.4.0",
         "serverfiles >=0.2",
-        "spectral >=0.18"
+        "spectral >=0.18,!=0.23"
       ],
       "license": "GPL-3",
       "license_family": "GPL",
-      "md5": "c35bc3439e018862467d6e633e2defd0",
+      "md5": "48fcb72d063a582191410f95014e0d3f",
       "name": "orange-spectroscopy",
       "noarch": "python",
-      "sha256": "ed1cbe89ff26aaf864a746674447f8da9075387e86d8ae5a7ac28a3e6ea9ea94",
-      "size": 3306621,
+      "sha256": "37e247cea37b6af26af470b7fca27c3bece51ddc7aaf7c9799ddbf3b7c53b57f",
+      "size": 3330220,
       "subdir": "noarch",
-      "timestamp": 1651144627347,
-      "version": "0.6.5"
+      "timestamp": 1665491447903,
+      "version": "0.6.6"
     },
     "quasar-1.5.0-py_0.tar.bz2": {
       "build": "py_0",
