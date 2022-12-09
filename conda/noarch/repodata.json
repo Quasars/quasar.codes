@@ -1128,6 +1128,25 @@
       "timestamp": 1666177404137,
       "version": "1.6.0"
     },
+    "quasar-1.7.0-py_0.tar.bz2": {
+      "build": "py_0",
+      "build_number": 0,
+      "depends": [
+        "orange-spectroscopy >=0.6.8",
+        "orange3 >=3.34.0",
+        "python"
+      ],
+      "license": "GPL-3",
+      "license_family": "GPL",
+      "md5": "8227073f835321ddfaac18c253df086d",
+      "name": "quasar",
+      "noarch": "python",
+      "sha256": "5004f21853d71747d483b66521a1a2e0752d0e922ebaebeffbe2b9c5161a222b",
+      "size": 86210,
+      "subdir": "noarch",
+      "timestamp": 1670513524242,
+      "version": "1.7.0"
+    },
     "renishawwire-0.1.8-py_0.tar.bz2": {
       "build": "py_0",
       "build_number": 0,
