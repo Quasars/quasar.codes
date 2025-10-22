@@ -57,7 +57,7 @@ There, install Quasar with pip:
     
 The above command will install all dependencies except PyQt. Install it with
 
-    pip install PyQt5
+    pip install PyQt6 PyQt6-WebEngine
 
 Then, run Quasar with:
 
