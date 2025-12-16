@@ -14,17 +14,23 @@ Would you like us to hold a workshop at your facility? [Let's talk!](/contact/#f
 
 ## Future
 
-__[Lund, Sweden]()__  
+__[Your department!?]()__  
+_Month day-day+2, 2026
+Workshop organized at your department  
+Number of participants: ~10-30_
+
+## Past
+
+__[Lund, Sweden](https://www.linxs.se/events/2025/11/04-06/quasar-for-spectral-data-analysis)__  
 _November 5-7, 2025
 Workshop organized at LINXS  
 Number of participants: ~30_
+[Read our interview with LINXS](https://www.linxs.se/news/2025/11/20/quasar-instructors-visit-linxs-to-teach-data-analysis-with-the-help-of-modern-machine-learning)
 
 __[Saint Aubin, France](https://www.synchrotron-soleil.fr/en/events/stat-ir8-2025)__  
 _June 18-20, 2025  
 Workshop organized by the SOLEIL Synchrotron  
 Number of participants: ~30_
-
-## Past
 
 __[Oxford, UK](https://www.diamond.ac.uk/Home/Events/2024/InfraRED-QUASAR-Workshop-2024.html)__  
 _October 30-November 1, 2024  
