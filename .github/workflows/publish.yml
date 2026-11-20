@@ -1,15 +1,13 @@
 name: Push to GitHub Pages on push to master
 on:
-  schedule:
-    # every day at midnight: https://crontab.guru/every-midnight
-    - cron:  '0 0 * * *'
-
   push:
     branches:
       - master
   pull_request:
     branches:
       - master
+
+  workflow_dispatch:
 
 # Least-privilege default; the deploy job escalates only what it needs.
 permissions:
