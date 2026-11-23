@@ -7,14 +7,16 @@ listing = true
 Windows
 =======
 
-[Quasar-1.13.1-x86_64.exe](https://download.biolab.si/download/files/quasar/Quasar-1.13.1-x86_64.exe) - an
+[Quasar-1.14.0-x86_64.exe](https://download.biolab.si/download/files/quasar/Quasar-1.14.0-x86_64.exe) - an
 installer that can be used without administrative privileges (64 bit).
 
 When updating, remove the older version first.
 
-The package includes Python 3.12.12,
-Orange 3.40.0, Orange-Spectroscopy 0.9.1, Orange-SNOM 0.1.0,
-numpy 2.1.3, scipy 1.13.1, scikit-learn 1.5.2.
+**Windows 11:** If Orange won't start, *Smart App Control* may be blocking it. Turn it off as described in [Microsoft's Smart App Control FAQ](https://support.microsoft.com/windows/smart-app-control-faq-285ea03d-fa88-4d56-882e-6698afdb7003).
+
+The package includes Python 3.13.18,
+Orange 3.41.0, Orange-Spectroscopy 0.9.4, Orange-SNOM 0.1.0,
+numpy 2.3.5, scipy 1.16.3, scikit-learn 1.7.2.
 
 This installer used to be based on Miniconda, but since Anaconda changed their licensing terms, we switched to Miniforge in 1.10.2. Since 1.12.0, this installer is based on micromamba.
 
@@ -24,19 +26,19 @@ macOS
 Quasar for Apple silicon
 ------------------------
 
-[Quasar-1.13.1-Python3.12.10-arm64.dmg](https://download.biolab.si/download/files/quasar/Quasar-1.13.1-Python3.12.10-arm64.dmg)
+[Quasar-1.14.0-Python3.13.17-arm64.dmg](https://download.biolab.si/download/files/quasar/Quasar-1.14.0-Python3.13.17-arm64.dmg)
 
 
 Quasar for Intel
 ----------------
 
-[Quasar-1.13.1-Python3.12.10-x86_64.dmg](https://download.biolab.si/download/files/quasar/Quasar-1.13.1-Python3.12.10-x86_64.dmg)
+[Quasar-1.14.0-Python3.13.17-x86_64.dmg](https://download.biolab.si/download/files/quasar/Quasar-1.14.0-Python3.13.17-x86_64.dmg)
 
 **Not sure which installer to select?** Click the Apple logo in the top-left corner of your screen, select About This Mac, and check the Chip or Processor field. If you see Apple, select the Orange for Apple Silicon installer. If you see Intel, select the Orange for Intel.
 
-The package includes Python 3.12.10,
-Orange 3.40.0, Orange-Spectroscopy 0.9.1, Orange-SNOM 0.1.0,
-numpy 2.1.3, scipy 1.13.1, scikit-learn 1.5.2.
+The package includes Python 3.13.17,
+Orange 3.41.0, Orange-Spectroscopy 0.9.4, Orange-SNOM 0.1.0,
+numpy 2.3.5, scipy 1.16.3, scikit-learn 1.7.2.
 
 Version archive
 ===============
